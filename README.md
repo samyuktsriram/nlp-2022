@@ -13,5 +13,6 @@ This repository contains 3 parts:
         Links to the datasets used: 
         https://www.kaggle.com/datasets/ankurzing/aspect-based-sentiment-analysis-for-financial-news
         https://www.kaggle.com/datasets/sbhatti/financial-sentiment-analysis
+        https://www.kaggle.com/datasets/BidecInnovations/stock-price-and-news-realted-to-it?select=MicrosoftFinalData.csv
 
 ~Samyukt Sriram
