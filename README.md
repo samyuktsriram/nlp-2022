@@ -10,5 +10,8 @@ This repository contains 3 parts:
     1. A jupyter notebook to train a classifier in the domain of finance news sentiment analysis
     2. A jupyter notebook that applies this classifier on a specific dataset to create new datapoints
     3. A zip file containing all the datasets used and generated from the above 2 files.
+        Links to the datasets used: 
+        https://www.kaggle.com/datasets/ankurzing/aspect-based-sentiment-analysis-for-financial-news
+        https://www.kaggle.com/datasets/sbhatti/financial-sentiment-analysis
 
 ~Samyukt Sriram
