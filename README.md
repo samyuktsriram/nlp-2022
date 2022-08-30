@@ -14,5 +14,6 @@ This repository contains 3 parts:
         https://www.kaggle.com/datasets/ankurzing/aspect-based-sentiment-analysis-for-financial-news
         https://www.kaggle.com/datasets/sbhatti/financial-sentiment-analysis
         https://www.kaggle.com/datasets/BidecInnovations/stock-price-and-news-realted-to-it?select=MicrosoftFinalData.csv
+    4. An jupyter notebook that interacts with the Twitter API, applying the classifier to pulled tweets.
 
 ~Samyukt Sriram
